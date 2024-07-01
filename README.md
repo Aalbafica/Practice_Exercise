@@ -1,2 +1,2 @@
 # Practice_Exercise
- i did some exercise for enhanced my programming logic 
+ i did some exercise to improve my programming skills
