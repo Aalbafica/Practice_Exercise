@@ -16,6 +16,11 @@ public class Matrices {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        // Este programa lo que hace es el llenado de una matriz indicandole al
+        // Usuario la fila y columna donde esta digitando, dejando de manera clara
+        // las posiciones en las que se van a imprimir
+        
         // Declaracion
         int matriz[][] = new int [3][3];
         
