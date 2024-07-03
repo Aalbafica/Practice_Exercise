@@ -15,3 +15,7 @@ El programa:
 - Define una matriz de iguales dimensiones
 - Se le pide al usuario que digite los datos y se guarde en la matriz, pero no se llenara por completo ya que se dejo la ultima columna de cada fila libre para el promedio que se iba a calcular (Esto se hace sumando cada nota y dividiendo por la cantidad de notas ingresadas por cada fila)
 - Se imprime la matriz junto con las notas digitadas por el usuario y el calculo del promedio en la ultima columna
+
+3. MatrizDeVuelos.java
+Una compañia de vuelos cuenta con 6 destinos a los que realiza 3 vuelos diariamente, uno por la mañana, otro al mediodia y otro por la noche. Para administrar estos datos, utiliza una matriz, donde cada fila es un destino y en cada columna se guarda la cantidad de asientos disponibles. Por ejemplo:
+![image](https://github.com/Aalbafica/Practice_Exercise/assets/162754467/2619cde3-1759-448b-9476-4627d993a1b5)
