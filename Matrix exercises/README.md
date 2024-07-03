@@ -9,3 +9,9 @@ Ejercicio donde se llena una matriz de enteros, su dimension es de 3x3 (3 filas 
 - Le pide al usuario los numero de tipo entero que quiera ingresar y guardar en la matriz
 - Se imprime la matriz para su completa visualizacion
 
+2. Matriz_Notas.java
+Ejercicio donde se llena una matriz de 4x4 con algunas notas de algunos estudiantes que son digitados por el usuario donde se calcula el promedio de las notas de cada estudiante y el resultado se guarda en la ultima columna de cada fila de la matriz.
+El programa:
+- Define una matriz de iguales dimensiones
+- Se le pide al usuario que digite los datos y se guarde en la matriz, pero no se llenara por completo ya que se dejo la ultima columna de cada fila libre para el promedio que se iba a calcular (Esto se hace sumando cada nota y dividiendo por la cantidad de notas ingresadas por cada fila)
+- Se imprime la matriz junto con las notas digitadas por el usuario y el calculo del promedio en la ultima columna
