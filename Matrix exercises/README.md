@@ -19,6 +19,7 @@ El programa:
 3. MatrizDeVuelos.java
 Una compañia de vuelos cuenta con 6 destinos a los que realiza 3 vuelos diariamente, uno por la mañana, otro al mediodia y otro por la noche. Para administrar estos datos, utiliza una matriz, donde cada fila es un destino y en cada columna se guarda la cantidad de asientos disponibles. Por ejemplo:
 ![image](https://github.com/Aalbafica/Practice_Exercise/assets/162754467/2619cde3-1759-448b-9476-4627d993a1b5)
+
 Puntos clave del ejercicio:
 -El programa debe permitir la carga de la matriz con la cantidad de asientos para cada vuelo y horario
 -El programa debe permitir al usuario ingresar el numero de destino y el numero de vuelo (dependiendo del horario) y la cantidad de pasajes que necesita
