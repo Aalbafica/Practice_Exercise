@@ -21,8 +21,8 @@ Una compañia de vuelos cuenta con 6 destinos a los que realiza 3 vuelos diariam
 ![image](https://github.com/Aalbafica/Practice_Exercise/assets/162754467/2619cde3-1759-448b-9476-4627d993a1b5).
 
 Puntos clave del ejercicio:
--El programa debe permitir la carga de la matriz con la cantidad de asientos para cada vuelo y horario.
--El programa debe permitir al usuario ingresar el numero de destino y el numero de vuelo (dependiendo del horario) y la cantidad de pasajes que necesita.
+- El programa debe permitir la carga de la matriz con la cantidad de asientos para cada vuelo y horario.
+- El programa debe permitir al usuario ingresar el numero de destino y el numero de vuelo (dependiendo del horario) y la cantidad de pasajes que necesita.
 - Dependiendo de la solicitud del usuario, el programa le avisara si habra asientos disponibles segun la cantidad de pasajes que digito. En caso tal que asi sea se le mostrara un mensaje de "EXITO" y se descontara del total de asientos que se registro en la matriz, en caso tal que no se le avisara que no se pudo y lo vuelva a intentar.
 El programa:
 - Se crea una matriz de 6x3 (6 filas y 3 columnas).
