@@ -36,3 +36,9 @@ Este programa calcula el angulo entre dos vectores segun la formula cos(θ) = A*
 - Se calcula el producto punto y magnitud de los dos vectores.
 - Se halla el angulo con los resultados obtenidos.
 - Se imprime el resultado en grados.
+
+6. AnguloDosVectores_2.java
+Este programa es similar al programa llamado 'AnguloDosVectores', sin embargo tiene alguna mejoras como:
+- Codigo mas legible y organizado
+- Uso de metodos y reutilizacion de codigo
+- Mensajes mas claros para el usuario
