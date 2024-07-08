@@ -20,7 +20,7 @@ public class Vector_inicializacion {
         int vector[] = new int [4];
         // Asignacion por teclado
         Scanner teclado = new Scanner(System.in);
-        // Carga de la matriz
+        // Carga del vector
         for (int i = 0; i < vector.length; i++) {
             System.out.println("Ingrese el valor para el indice " + i);
             vector[i] = teclado.nextInt();
