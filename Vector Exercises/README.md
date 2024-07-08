@@ -22,3 +22,10 @@ Este programa es similir a 'SumaDeVectores1', sin embargo este programa es mas e
 - Se crean e inicializan los vectores.
 - Se comprueba que las longitudes sean iguales para poder proceder con la suma.
 - Se crean metodos para la organizacion y reutilizacion de codigo.
+
+4. Ejercicio_Number1.java
+Este programa le dice al usuario cuantas veces se repite un numero, especificamente el numero 3
+- Se Inicializa el vector
+- Se recorre y llena el vector
+- Se comprueba cuantas veces se repite el numero 
+- Se le dice al usuario cuantas veces se imprimio ese numero
