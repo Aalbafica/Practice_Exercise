@@ -25,7 +25,14 @@ Este programa es similir a 'SumaDeVectores1', sin embargo este programa es mas e
 
 4. Ejercicio_Number1.java
 Este programa le dice al usuario cuantas veces se repite un numero, especificamente el numero 3
-- Se Inicializa el vector
-- Se recorre y llena el vector
-- Se comprueba cuantas veces se repite el numero 
-- Se le dice al usuario cuantas veces se imprimio ese numero
+- Se Inicializa el vector.
+- Se recorre y llena el vector.
+- Se comprueba cuantas veces se repite el numero.
+- Se le dice al usuario cuantas veces se imprimio ese numero.
+
+5. AnguloDosVectores.java
+Este programa calcula el angulo entre dos vectores segun la formula cos(θ) = A*B/|A|*|B|.
+- Se inicializa las variables y los vectores.
+- Se calcula el producto punto y magnitud de los dos vectores.
+- Se halla el angulo con los resultados obtenidos.
+- Se imprime el resultado en grados.
