@@ -42,3 +42,9 @@ Este programa es similar al programa llamado 'AnguloDosVectores', sin embargo ti
 - Codigo mas legible y organizado
 - Uso de metodos y reutilizacion de codigo
 - Mensajes mas claros para el usuario
+
+7. Vector_TempMax_TempMin.java
+Este programa se encarga de decirle al usuario cual fue la ciudad con la temperatura maxima y cual con la temperatura minima. El programa:
+- Inicializacion de 3 vectores unidimensionales.
+- El vector se carga (por el usuario) con el nombre de las ciudades y sus temperaturas maximas y minimas.
+- Se procede a hacer la busqueda de cual fue la ciudad con la temperatura maxima y cual con la minima.
